@@ -1,0 +1,1 @@
+# Internship-messenger-pocket-server-Adamanov
